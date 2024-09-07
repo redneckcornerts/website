@@ -1,0 +1,24 @@
+!DOCTYPE html>
+<html lang=""en>
+    <head>
+        <meta charset="UTF-8">
+        <meta https-equiv="X-UA-Compatible" content="IE=edge">
+        <link rel="stylesheet" href="styles.css">
+        <title>Grocery List</title>
+    </head>
+    <body>
+        <div class="container">
+        <div class="groceries">
+        <br>
+        <h1 style="text-align: center;">Grocery List</h1>
+        <div style="text-align: center;">
+            <button id="clear-btn"> clear</button><input id="userinput"type="   text"> 
+         <div id-"allItems">
+         </div>
+        <br>
+        </div>
+        </div>
+        </div>
+      <script src="script.js"></script>
+    </body>
+</html>
